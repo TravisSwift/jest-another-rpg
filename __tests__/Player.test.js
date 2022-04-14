@@ -13,7 +13,7 @@ test('creates a player object', () => {
     expect(player.strength).toEqual(expect.any(Number));
     expect(player.agility).toEqual(expect.any(Number));
     expect(player.inventory).toEqual(
-        expect.arrayContaining([expect.any(Object)])
+    expect.arrayContaining([expect.any(Object)])
       );
   });
 
