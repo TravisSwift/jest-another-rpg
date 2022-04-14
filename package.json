@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "An RPG game using OOP, TDD, and Node.js to run in a command line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TravisSwift/jest-another-rpg.git"
+  },
+  "author": "Travis A. Swift & UT Austin Bootcamp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TravisSwift/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/TravisSwift/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}
